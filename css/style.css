@@ -22,7 +22,9 @@ h3{
     font-weight: bold;
     color: #894f3b;    
 }
-
+.navbar{
+    background-color: #fd8800;
+}
 
 li{
     list-style-image: url(../img/lemon2.png);
