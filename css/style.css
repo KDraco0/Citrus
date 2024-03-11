@@ -15,7 +15,12 @@ h1{
 }
 
 h2{    
-    margin-top: 10px;    
+    margin-top: 10px;  
+    color: #416818;
+    border: #416818;
+    border-left: 3px dotted;
+    text-transform: capitalize;  
+    margin: 15px 5px;
 }
 
 h3{    
